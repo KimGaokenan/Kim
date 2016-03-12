@@ -1,0 +1,14 @@
+ul{
+	list-style-type: none;
+	}
+ul li{
+	display: inline-block;
+	border: 1px solid blue;
+	padding: 5px;
+}
+ul li input{
+	width: 40px;
+}
+ul li span{
+	padding: 0 10px;
+}
